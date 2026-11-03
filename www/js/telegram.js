@@ -1,9 +1,3 @@
-// ==========================================
-// CONEXIÓN TELEGRAM (Para la Fase 4 - APK)
-// ==========================================
-// Nota: Spck Editor bloquea las conexiones WebSocket, 
-// pero este código funcionará perfecto en la APK real.
-
 const API_ID = 35765130; 
 const API_HASH = '57f43fe98aa6c6e7a1ab4f198b439ac5'; 
 
